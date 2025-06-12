@@ -76,6 +76,4 @@ This project is based on *Deep Learning Recommendation Systems* by Wang Zhe. It 
 
 - **DRN（深度残差网络推荐）** -
 
-### 文件结构
-- **深度学习模型** 存储于 `Deep Learning Models` 文件夹中。
-- **传统机器学习模型** 存储于 `Machine Learning Models` 文件夹中。
+
